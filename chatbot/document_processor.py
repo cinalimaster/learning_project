@@ -12,6 +12,7 @@ import html2text
 import markdown
 from .advanced_splitter import AdvancedDocumentSplitter
 from .entity_extractor import EntityExtractor
+from sentence_transformers import SentenceTransformer
 
 logger = logging.getLogger(__name__)
 
@@ -19,7 +20,17 @@ class DocumentProcessor:
     def __init__(self):
         self.splitter = AdvancedDocumentSplitter(chunk_size=512, chunk_overlap=64)
         self.entity_extractor = EntityExtractor()
-        self.stop_words = set(stopwords.words('turkish'))
+        try:
+            self.stop_words = set(stopwords.words('turkish'))
+        except LookupError:
+            import nltk
+            nltk.download('stopwords', quiet=True)
+            self.stop_words = set(stopwords.words('turkish'))
+        # Embedder for chunk vectors
+        self.embedding_model = SentenceTransformer(
+            'sentence-transformers/all-MiniLM-L6-v2',
+            device='cpu'
+        )
 
     def process_document(self, file_path):
         """Process a document and return structured content with entities"""

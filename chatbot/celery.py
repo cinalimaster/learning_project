@@ -1,25 +1,23 @@
 import os
 from celery import Celery
-from celery.signal import setup_logging
+from celery.signals import setup_logging
 
-os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'your_project.settings')
+os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'myproject.settings')
 
 app = Celery('rag_chatbot')
 app.config_from_object('django.conf:settings', namespace='CELERY')
 
 # Configure queue routing for different task types
 app.conf.task_routes = {
-    'chatbot.task.process_query': {'queue': 'query_queue'},
-    'chatbot.task.process_document': {'queue': 'document_queue'},
-    'chatbot.task.update_embeddings': {'queue': 'embedding_queue'},
+    'chatbot.tasks.*': {'queue': 'document_queue'},
 }
 
 # Optimize worker configration for 16 core CPU
-app.conf.worker_prefetch_multiplier = 1 # Better for CPU bound tasks
-app.conf.task_ack_late = True # Acknowled after task completion
-app.conf.worker_mask_tasks_per_child = 1000 # Prevent memory leaks
-app.conf.worker_concurrency = 16 # This should be equal to your CPU cores
-app.conf.broker_pool_limit = 100 # Higher for Redis
+app.conf.worker_prefetch_multiplier = 1
+app.conf.task_acks_late = True
+app.conf.worker_max_tasks_per_child = 1000
+app.conf.worker_concurrency = int(os.environ.get('CELERY_WORKERS', '4'))
+app.conf.broker_pool_limit = 100
 
 
 # Configure task time limits based on the task type

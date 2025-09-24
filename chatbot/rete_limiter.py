@@ -2,7 +2,7 @@
 
 import time
 import hashlib
-import re  # <-- Missing import!
+import re
 from django.core.cache import cache
 from django.http import JsonResponse
 from django.utils import timezone

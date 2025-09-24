@@ -65,7 +65,7 @@ class CrossDocumentRetriever:
                     'documents': [documents[i]['id'] for i in doc_indices],
                     'relevance': 0.6
                 })
-         # Sort by relevance
+        # Sort by relevance
         connections.sort(key=lambda x: x['relevance'], reverse=True)
         return connections[:5] # Return top 5 relationships
     

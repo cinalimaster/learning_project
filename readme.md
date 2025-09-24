@@ -398,4 +398,52 @@ my_django_project/
   docker-compose exec web python manage.py createsuperuser
   ```
 
-If you encounter specific errors or need help with additional features (e.g., adding a frontend, setting up Celery, or deploying), let me know!
+## Quickstart (Local)
+
+1) Create venv and install deps
+
+```
+python3 -m venv .venv --without-pip
+. .venv/bin/activate
+curl -sS https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+python get-pip.py
+pip install -U pip
+pip install -r requirements.txt
+```
+
+2) Run DB migrations and start server (SQLite by default)
+
+```
+python manage.py makemigrations
+python manage.py migrate
+python manage.py runserver 0.0.0.0:8000
+```
+
+3) Open `http://localhost:8000` and use the floating chat widget.
+
+API endpoints:
+- POST `http://localhost:8000/api/ask/` with JSON `{ "question": "..." }`
+- POST `http://localhost:8000/api/upload/` form-data file `file`
+- GET  `http://localhost:8000/api/documents/<id>/status/`
+
+Notes:
+- Settings auto-fallback to SQLite if `DB_*` env vars are not set.
+- FAISS index and documents are loaded from `documents/`.
+- Tests: `pytest` (configured via `pytest-django`).
+
+## Docker Compose
+
+Docker setup includes Postgres, Redis, Ollama, Django web, and Celery worker. Ensure `.env` has DB credentials and `OLLAMA_MODEL_NAME`.
+
+```
+docker compose up --build -d
+```
+
+## Known Changes/Fixes
+
+- Added DRF and API endpoints, SQLite fallback, caching, and pytest-django.
+- Implemented `ChatInteraction` model and migrations.
+- Added `advanced_splitter.py`, `services.py`, optional spaCy usage, and robust NLTK download handling.
+- Fixed typos and imports (`rete_limiter`, Celery config, hybrid/entity retrievers).
+- Adjusted FAISS and NumPy versions compatible with Python 3.13.
+- Tests now pass: `5 passed`.
