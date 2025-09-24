@@ -1,0 +1,112 @@
+# Sancaktepe Belediyesi Hizmet Rehberi
+
+---
+
+### **1. Genel Belediye Hizmetleri**
+- **Belediye hangi hizmetleri sunar?**
+  - Çöp ve kentsel atık toplama, inşaat ruhsatı ve yapı kontrol, ifraz, tevhid, parselizasyon gibi arazi hizmetleri.
+  - Yağmursuyu altyapısı, kanalizasyon, elektrik, telekom hatları için kazı ruhsatı.
+  - Yol ve kaldırım bakımı, kışla ve afetle mücadele, park ve yeşil alan yapımı ve bakımı.
+  - Semt pazar yeri yönetimi, sosyal yardım, kültürel etkinlikler, nikah ve cenaze hizmetleri.
+  - Yerel ambulans gibi sağlık hizmetleri, spor tesisleri, çocuk yuvası hizmetleri.
+  - Okul, sağlık ocağı, hastane, ibadethane gibi kamu binalarının yapım ve onarım hizmetleri.
+
+- **İlçe belediyesi ile İstanbul Büyükşehir Belediyesi (İBB) sorumlulukları nasıl ayrılır?**
+  - İBB, ana arter yollar, toplu taşıma, trafik yönetimi, taksi durakları ve metro gibi büyük ölçekli hizmetlerden sorumludur.
+  - 1/100.000, 1/5.000 ve 1/25.000 ölçekli imar planlarını İBB yapar. İtfaiye, İSKİ, AYEDAŞ, İGDAŞ gibi kuruluşlar İBB'ye bağlıdır.
+  - İlçe belediyeleri, park ve spor tesisleri yapımı, yol ve kaldırım bakımı, kazı ruhsatı, 1/1000 uygulama imar planları, semt pazarı yönetimi, yerel zabıta, nikah işlemleri, cenaze ve taziye desteği gibi daha küçük ölçekli yerel hizmetleri sunar.
+
+- **Belediye hizmetlerinden kimler yararlanabilir?**
+  - İlçede ikamet edenler, geçici sakinler ve mülk sahipleri yararlanabilir.
+
+- **Belediye hizmetleri ücretsiz mi, yoksa bazıları için ücret ödeniyor mu?**
+  - Çoğu hizmet ücretsizdir, ancak **inşaat ruhsatı, atık toplama, nikah işlemleri ve sosyal tesis hizmetleri** gibi bazı işlemler için harç ve ücretler alınabilir.
+  - Belediyeler gelirlerini merkezi bütçe payı ve yerel vergilerden elde eder.
+
+- **Belediyenin çalışma saatleri nelerdir?**
+  - Hafta içi **Pazartesi-Cuma, 08:30-17:00** saatleri arasında hizmet verilir.
+  - Bu saatler dışında, bazı faaliyetler için nöbetçi ekipler 7/24 hizmet vermeye devam eder.
+
+- **Belediye ile nasıl iletişime geçebilirim?**
+  - **Telefon:** +90 216 311 11 11 (Çağrı Merkezi)
+  - **E-posta:** sancaktepe@sancaktepe.bel.tr
+  - **Adres:** Abdurrahmangazi Mahallesi Enderun Caddesi No:2 Sancaktepe, İSTANBUL.
+
+- **Acil durumlarda belediyeden hangi hizmetleri alabilirim?**
+  - Sel, yangın veya altyapı arızaları gibi durumlarda +90 216 311 11 11 numaralı çağrı merkezi aranarak ilgili birime yönlendirme talep edilebilir.
+
+---
+
+### **2. Çöp Toplama ve Çevre Hizmetleri**
+- **Çöp toplama günleri ve saatleri nelerdir?**
+  - İlçede belirli bir gün ve saat uygulaması yoktur. Evsel atıklar, kokuya neden olmayacak şekilde poşetlenerek çöp konteynerlerine bırakılmalı ve günlük olarak toplanmaktadır. Konteyner yanına ekmek, kıyafet veya inşaat molozu gibi atıklar bırakılmamalıdır.
+
+- **Geri dönüşüm atıkları için ayrı toplama yapılıyor mu?**
+  - Evet. Kıyafet, cam, elektronik eşya, kağıt, pil ve atık ekmek gibi geri dönüştürülebilir atıklar için okullara ve kamu binalarına yakın alanlarda özel geri dönüşüm konteynerları bulunmaktadır.
+  - İnşaat atığı, yağ ve kimyasal atıklar için çağrı merkezi üzerinden talep oluşturulduğunda adresinizden alınmaktadır.
+
+- **Büyük hacimli atıklar (mobilya, elektronik eşya) nasıl bertaraf edilir?**
+  - Çağrı merkezi ile iletişime geçilerek inşaat atığı toplama araçları talep edilebilir.
+
+- **Tehlikeli (pil, kimyasal) atıklar için ne yapmalıyım?**
+  - Bu tür atıklar için de geri dönüşüm konteynerları veya çağrı merkezi üzerinden özel toplama hizmetleri mevcuttur.
+
+- **Sokak temizliği ve çevre düzenlemesi için belediyeye nasıl talepte bulunabilirim?**
+  - Temizlik için çağrı merkezi üzerinden **Temizlik İşleri Müdürlüğü'ne**, çevre düzenlemesi için **Park ve Bahçeler** ve **Fen İşleri Müdürlüğü'ne** başvurabilirsiniz.
+
+- **Belediye, haşere kontrolü (sivrisinek, fare) için ne tür hizmetler sunuyor?**
+  - Çağrı merkezi üzerinden **Sağlık İşleri Müdürlüğü'ne** başvuru yaparak haşere kontrol hizmeti talep edilebilir.
+
+---
+
+### **3. Su ve Kanalizasyon Hizmetleri**
+- **Su faturamı nasıl öderim ve su abonesi nasıl olurum?**
+  - Su faturaları ve abonelik işlemleri **İBB iştiraki olan İSKİ** tarafından yapılmaktadır.
+
+- **Su kesintisi veya arıza durumunda kime başvurmalıyım?**
+  - **İSKİ'nin çağrı merkezi ALO 185'i** aramalısınız.
+
+- **Kanalizasyon tıkanıklığı veya taşkın sorunları için ne yapmalıyım?**
+  - **İSKİ'nin çağrı merkezi ALO 185'i** aramalısınız.
+
+- **Yağmur suyu drenaj sistemleri hakkında şikayetlerimi nereye iletebilirim?**
+  - +90 216 311 11 11 no’lu çağrı merkezi üzerinden **Fen İşleri Müdürlüğü** ile iletişime geçilmelidir.
+
+---
+
+### **4. Ulaşım Hizmetleri**
+- **Mahallemdeki yol ve kaldırım onarımları için kime başvurmalıyım?**
+  - **Ana arter yolların** yapım ve onarımı **İBB** tarafından, ana arter dışındaki cadde, sokak yol ve kaldırımlarının yapım ve onarımı ise **Sancaktepe Belediyesi Fen İşleri Müdürlüğü** tarafından yapılır.
+
+- **Otopark hizmetleri belediye tarafından mı yönetiliyor?**
+  - İstanbul genelinde otoparklar **İBB'ye bağlı İSPARK** tarafından yönetilir. İlçe belediyesinin de işlettiği otoparklar bulunabilir.
+
+- **Bisiklet yolları veya yaya yolları için belediyeden talepte bulunabilir miyim?**
+  - **Sancaktepe Belediyesi Fen İşleri Müdürlüğü'ne** başvurabilirsiniz.
+
+- **Toplu taşıma hizmetleri (otobüs, minibüs) hakkında şikayetlerimi nereye bildirebilirim?**
+  - Minibüs ve taksi durakları için **İBB Toplu Ulaşım Hizmetleri Müdürlüğü'ne**, İETT hatları için **İETT'ye**, metro hatları için ise doğrudan **İBB'ye** başvurulmalıdır.
+
+- **Engelli bireyler için ulaşım hizmetleri nelerdir?**
+  - Periyodik hastane randevuları için **engelli nakil aracı hizmeti** verilmektedir. Ayrıca, trafik sinyalizasyon sistemleri, engelli rampaları ve engelli dostu kaldırımlar gibi hizmetler sunulmaktadır.
+
+---
+
+### **5. Sosyal Yardım ve Destek Hizmetleri**
+- **Belediyeden sosyal yardım alabilmek için hangi şartlar gerekir?**
+  - Gıda, yakacak, eğitim gibi çeşitli yardımlar mevcuttur. Her yardım için istenen belgeler ve şartlar hakkında bilgi almak için **Sosyal Destek Hizmetleri Müdürlüğü** ile irtibata geçilmelidir.
+
+- **Sosyal yardım başvurusu nasıl yapılır?**
+  - **Sosyal Destek Hizmetleri Müdürlüğü** ile irtibata geçilerek başvuru yapılabilir.
+
+- **Belediye, yaşlılar veya engelliler için hangi hizmetleri sunuyor?**
+  - **Evde bakım, evde kuaför, ev temizliği ve sıcak yemek dağıtımı** gibi sosyal destekler verilmektedir.
+
+- **Çocuklar ve gençler için ücretsiz eğitim veya etkinlik programları var mı?**
+  - Evet, **yaz okulları, çeşitli kurslar, kütüphaneler** ve okula gitmeyen küçük çocuklar için **çocuk yuvası hizmetleri** verilmektedir.
+
+- **İşsizlik veya maddi zorluk yaşayanlar için belediye istihdam desteği sağlıyor mu?**
+  - **Ücretsiz meslek edindirme kursları** ve iş bulmak isteyenlere hizmet veren **Kariyer Merkezi** aracılığıyla istihdam desteği sağlanmaktadır.
+
+---
+

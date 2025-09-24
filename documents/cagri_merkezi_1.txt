@@ -1,0 +1,112 @@
+# Çağrı Merkezine Gelen Taleplere Göre İlgili Müdürlükler ve Birimler
+
+## Fen İşleri Müdürlüğü
+* IETT hat ve otobüs durağı talebi.
+* İGDAŞ ve İSKİ ihbarları.
+* İstinat duvar yapım talebi (toprak kayması).
+* Kaldırım yapım ve onarımı.
+* Kamu bina talepleri (okul, cami, cemevi, sosyal hizmet).
+* Kanalizasyon/logar şikayetleri.
+* Kar küreme ve tuzlama.
+* Kazı ruhsat talebi.
+* Kumlama (araçlardan yola dökülen yağlar için).
+* Mazgal şikayetleri.
+* Otopark talebi.
+* Beton rampa talebi.
+* Sel baskını.
+* Sokak aydınlatması ve elektrik işleri.
+* Talebinden vazgeçen vatandaş.
+* Trafik düzenlemeleri ve sinyalizasyonu.
+* Türk Telekom ihbarları.
+* Yol yapım, onarım ve yola dökülen kuru beton.
+* Yön tabela şikayet ve talebi.
+
+## Gençlik ve Spor Müdürlüğü
+* Çocuk gelişim merkezi hakkında bilgi.
+* Müdürlüğe bağlı ikramlık hizmetleri.
+* Kış ve yaz spor etkinlikleri.
+* Kitap talebi.
+* Kreş ve gündüz bakım evi.
+* Kütüphaneler ile ilgili talep ve şikayetler.
+* Öneri ve görüşler.
+* Spor kursları ve spor tesisleri ile ilgili şikayetler.
+* Talebinden vazgeçen vatandaş.
+
+## Halkla İlişkiler Müdürlüğü
+* Anket (2024 yılı).
+* Hizmeti yerinde görelim talebi.
+* Kaçan çağrıya dönüş.
+* Öneri ve görüşler.
+* Telefon aktarımı.
+* Ziyaret talebi.
+
+## İklim Değişikliği ve Sıfır Atık Müdürlüğü
+* Arıza onarım (kaynak atölyesi).
+* Atık ilaç, pil, bitkisel yağ, cam, elektronik, kağıt ve tekstil atıklarının toplanması.
+* Çevre denetim saha (çevre kirliliği, moloz).
+* Çevre kirliliği (hafriyat, çöp ev, pis su, görüntü, hurdacı).
+* Doğa kartı talebi.
+* Geri dönüşüm kutusu talebi, kaldırılması veya yer değişikliği.
+* Giysi kumbarası talebi.
+* Gürültü kirliliği (ses ölçümü).
+* Hasarın karşılanması.
+* Hava kirliliği (emisyon, toz, koku).
+* Korkuluk talebi (kaynak atölyesi).
+* Moloz alım talebi ve moloz atımı şikayeti.
+* Plastik atıkların alınması.
+* Rampa talebi (kaynak atölyesi).
+* Talebinden vazgeçen vatandaş.
+
+## İmar ve Şehircilik Müdürlüğü
+* Asansör ruhsatı.
+* İmar planları hakkında bilgi.
+* Yapı ruhsatı hakkında bilgi.
+
+## İnsan Kaynakları Müdürlüğü
+* Arabuluculuk.
+* İş ve staj başvuru talebi.
+
+## İnsan Kaynakları Müdürlüğü (Kariyer Şefliği)
+* Kariyer merkezi hizmetleri.
+
+## Kadın ve Aile Hizmetleri Müdürlüğü
+* Danışmanlık hizmetleri.
+* Eğitimler, kurslar.
+* Engellilere ve yaşlılara yönelik hizmetler (ev temizliği, kuaförlük).
+* Gençlere ve çocuklara yönelik hizmetler.
+* Gönüllü işler.
+* Hoş geldin bebek kampanyası.
+* Kadına karşı şiddet kapsamında verilen hizmetler.
+* Kadınlara yönelik hizmetler.
+
+## Kültür ve Sosyal İşler Müdürlüğü
+* Gürültü kirliliği (kültür ve sosyal işler).
+* Kültür gezileri ve kültürel faaliyetler hakkında bilgi.
+
+## Mali Hizmetler Müdürlüğü
+* Çevre temizlik vergisi şikayetleri.
+* Emlak vergisi beyanı.
+* Haciz işlemleri.
+* İlan ve reklam vergisi beyanı.
+* İnternetten yapılan ödemeler ve yanlış ödemeler.
+* Muafiyet (emekli, engelli, ev hanımı).
+* Ödeme emri hakkında bilgi.
+* Teminat mektubu.
+* Vergi işlemleri (borç yapılandırma, vergi barışı).
+* Vergi ve ceza ihbarnamesi.
+
+## Özel Kalem Müdürlüğü
+* Başkanlık saha çalışmaları.
+* Müdürlük ile ilgili talep ve şikayetler.
+
+## Zabıta Müdürlüğü
+* Yol işgali.
+
+## Park ve Bahçeler Müdürlüğü
+* Acil durumlar (trafik kazası, kar, aşırı rüzgar, ağaç devrilmesi).
+* Ağaç dikim, kesim ve budama talepleri.
+* Ağaç, çalı, çiçek ve çim tohumu talebi.
+* Bank, piknik masası, çöp kutusu, pergola, kamelya talebi.
+* Bitkisel atık alım talebi (ağaç dalları, biçilen otlar).
+* Çevre düzenleme çalışması (kamu alanları).
+* Çim biçme talepleri.

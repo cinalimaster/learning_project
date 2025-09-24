@@ -1,0 +1,98 @@
+# Çağrı Merkezine Gelen Taleplere Göre İlgili Müdürlükler ve Birimler
+
+## Park ve Bahçeler Müdürlüğü
+* Park veya ağaçlarla ilgili hasarın karşılanması.
+* İzinsiz ağaç kesimi (acil müdahale).
+* Kamu alanları sulama talepleri.
+* Kiraya verilen tesisler (işletme çevresi).
+* Park aydınlatmaları ve kamera talepleri.
+* Park bakım ve onarım talepleri (büyük - peyzaj - revizyon).
+* Park bakım ve onarım talepleri (küçük - tadilat).
+* Park kamera kayıt talepleri.
+* Park yapım talebi.
+* Parklarda ve kamusal alanlarda ağaç, ağaçcık ve çalılarda zirai ilaçlama.
+* Talebinden vazgeçen vatandaş.
+* Tarihi çeşme ve muslukların onarımı.
+* Toprak talebi.
+
+## Plan ve Proje Müdürlüğü
+* Bina deprem testi.
+* İfraz-tevhid-yola terk işlemleri.
+* İmar uygulaması.
+* Kentsel dönüşüm talepleri.
+* Numarataj işlemleri.
+* Sokak tabela şikayetleri.
+
+## Ruhsat ve Denetim Müdürlüğü
+* Gıda denetimi.
+* İşyeri ruhsatları ile ilgili şikayetler.
+* Talebinden vazgeçen vatandaş.
+
+## Sağlık İşleri Müdürlüğü
+* Talebinden vazgeçen vatandaş.
+* Toplu sünnet talebi.
+
+## Sağlık İşleri Müdürlüğü (Ambulans Şefliği)
+* Hasta nakil ambulansı.
+
+## Sağlık İşleri Müdürlüğü (Evde Bakım Hizmetleri)
+* Evde sağlık hizmetleri.
+
+## Sağlık İşleri Müdürlüğü (Veteriner İşleri Şefliği)
+* Dezenfektan işleri.
+* Gece ULV çalışması (sivrisinek-karasinek).
+* Hayvan barınak talebi.
+* Hayvan hakları ihlali.
+* Isırma vaka şikayeti.
+* İlaçlama talepleri.
+* Kısırlaştırma talebi.
+* Kurban hizmetleri.
+* Mama talebi.
+* Ölü hayvan şikayeti.
+* Park ilaçlaması (bit, pire, kene).
+* Sahipli hayvan şikayetleri.
+* Sahipsiz sokak hayvanları.
+* Sahipsiz hasta hayvan şikayeti.
+* Sahipsiz hayvanlar (diğer türler).
+* Talebinden vazgeçen vatandaş.
+* Yaralı hayvan şikayeti.
+
+## Sosyal Yardım İşleri Müdürlüğü
+* Afet destek talebi (yangın, sel, doğal afet).
+* Burs yardımı.
+* Eğitim yardımı (okul kıyafeti, kırtasiye, tablet).
+* Engellilere ve yaşlılara yönelik hizmetler (genel).
+* Ev eşyası talebi (ihtiyaç sahipleri için).
+* Gıda, giyim ve maddi yardım.
+* Hasta bezi ve hasta yatağı talebi.
+* Kömür yakacak yardımı.
+* Sokakta kalanlara yardım.
+* Sosyal yardım (gıda, giyim, maddi, eğitim).
+* Talebinden vazgeçen vatandaş.
+* Tekerlekli sandalye talebi.
+
+## Teftiş Kurulu Müdürlüğü
+* İnceleme / soruşturma.
+
+## Temizlik İşleri Müdürlüğü
+* Bayat ekmek kutu talebi ve bayat ekmeklerin toplanması.
+* Çevreye zamansız çöp atılması.
+* Çöp konteyner talebi, kaldırılması/yer değişikliği, tamir ve bakımı, yıkanması.
+* Çöp toplama şikayetleri.
+* Duvar yazılarının temizlenmesi.
+* Evsel atık toplama talebi.
+* Hasarın karşılanması.
+* İbadethane temizliği.
+* Kaldırım üzerindeki kar küreme ve çimlerin temizlenmesi.
+* Konteyner cebi yapımı ve konteyner şikayetleri.
+* Kurban satış ve kesim yerlerinin temizlenmesi.
+* Park temizliği (WC bakımı ve temizliği).
+* Pazar yerlerinin temizliği.
+* Sokak temizliği ve yıkama.
+* Talebinden vazgeçen vatandaş.
+* Yola dökülen beton.
+
+## Tesisler Müdürlüğü
+* Aşevi / sıcak yemek talebi.
+* Organizasyon hakkında bilgi.
+* Sosyal tesis şikayetleri.

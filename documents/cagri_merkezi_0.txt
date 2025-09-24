@@ -1,0 +1,57 @@
+# Acil Durum ve Hizmet Hatları
+
+* **Elektrik Arızaları (Ayedaş):** Elektrik arızaları, elektrik kaçağı ve dağıtım hizmetleri için **ALO 186** Çağrı Merkezi'ni arayabilirsiniz.
+* **Doğalgaz Acil (İGDAŞ):** Doğalgaz arızaları, gaz kokusu, gaz kaçağı gibi durumlar için **Doğalgaz Acil 187** Çağrı Merkezi'ni arayabilirsiniz.
+* **İnternet Altyapı Hasar (Türk Telekom):** İnternet hatlarının zarar görmesi ve altyapı hasarları için **0800 314 0003** numaralı Çağrı Merkezi'ni kullanabilirsiniz.
+* **Genel Şikayet ve Talep Merkezi (153):**
+    * **Doğalgaz Dağıtım Hizmetleri:** Bilgi, öneri, talep ve şikayetler.
+    * **Toplu Ulaşım:** Taksi, minibüs, halk otobüsleri, İETT otobüsleri ile ilgili şikayetler ve diğer toplu ulaşım hizmetleri.
+    * **Trafik ve Yol Durumu:** Ana arterlerdeki arızalı sinyal sistemleri, eksik veya hasarlı trafik levhaları, yol hasarları.
+* **Acil Durum (112):** Ambulans, yangın ihbarı, bina çökmesi, kimyasal tehlike, AFAD, Polis İmdat ve Jandarma İmdat gibi tüm acil durumlar için ortak çağrı numarası **112**'dir.
+
+---
+
+# Çağrı Merkezine Gelen Taleplere Göre İlgili alanda hizmet veren Müdürlükler ve Birimler
+
+## Afet İşleri Müdürlüğü
+* AFAD ile ilgili konular ve hizmetler.
+
+## Basın ve Yayın Müdürlüğü
+* Afiş, bayrak talebi.
+* Belediye bülteni, broşür, kitapçık ve tanıtım materyalleri.
+* Etkinlik fotoğraf/video talebi.
+* Kopan veya yıpranan bayrak bakımı.
+* Ses sistemi talebi.
+
+## Bilgi İşlem Müdürlüğü
+* Ağ ve internet erişim problemleri.
+* Baz istasyon şikâyetleri.
+* Görüntü kirliliği (LED ekran).
+* Haberleşme (internet-altyapı).
+
+## Bilgi İşlem Müdürlüğü (Yazılım)
+* E-belediye sayfa erişimi ve üyelik güncelleme işlemleri.
+* E-belediye şikâyetleri.
+* İnternetten yapılan ödemeler ve yanlış ödemeler.
+
+## Destek Hizmetleri Müdürlüğü
+* Cenazeler için masa, sandalye ve çadır kurulumu.
+* Dış hizmet binaları temizlik talepleri.
+* Hasarın karşılanması.
+* İkramlık hizmeti (hastane vb.).
+* Masa, sandalye (asker-nişan-düğün) temini.
+* Servis hizmetleri.
+* TV, sinema çekim izinleri.
+
+## Emlak ve İstimlak Müdürlüğü
+* Belediye taşınmazlarının tapusu.
+* Hazine mülkiyetleri (Milli Emlak).
+* Kiraya verilen belediye mülkiyetleri.
+
+## Fen İşleri Müdürlüğü
+* Asfalt talebi.
+* Ayedaş ile ilgili işler ve hizmetler.
+* Demir beton baba (duba) şikâyetleri.
+* Doğal afet sonucu etrafa saçılan işgaller.
+* Hasarın karşılanması.
+* Hız kesici (kasis) yapılması veya onarımı.
