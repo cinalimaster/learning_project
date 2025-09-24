@@ -1,0 +1,135 @@
+services:
+  db:
+    image: postgres:15
+    environment:
+      POSTGRES_DB: rag_chatbot
+      POSTGRES_USER: ${DB_USER}
+      POSTGRES_PASSWORD: ${DB_PASSWORD}
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+      - ./init.sql:/docker-entrypoint-initdb.d/init.sql
+    ports:
+      - "5432:5432"
+    deploy:
+      resources:
+        limits:
+          cpus: '4'
+          memory: 8G
+
+  redis:
+    image: redis:7-alpine
+    command: redis-server --save 60 1 --loglevel warning
+    volumes:
+      - redis_data:/data
+    ports:
+      - "6379:6379"
+    deploy:
+      resources:
+        limits:
+          cpus: '2'
+          memory: 4G
+
+  ollama:
+    image: ollama/ollama:latest
+    restart: unless-stopped
+    ports:
+      - "11434:11434"
+    volumes:
+      - ollama_data:/root/.ollama
+      - ./start-ollama.sh:/start-ollama.sh
+    entrypoint: /bin/sh
+    command: -c "/start-ollama.sh"
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:11434/api/tags"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+      start_period: 10s
+    deploy:
+      # resources:
+      #   reservations:
+      #     devices:
+      #       - driver: nvidia
+      #         capabilities: [ gpu ]
+      #         count: 1  # Adjust based on the number of GPUs to reserve
+    networks:
+      - mynetwork
+
+
+  web:
+    build: .
+    restart: unless-stopped
+    ports:
+      - "8000:8000"
+    environment:
+      - OLLAMA_MODEL_NAME=${OLLAMA_MODEL_NAME}
+      - DB_HOST=db
+      - DB_PORT=${DB_PORT}
+      - DB_NAME=${DB_NAME}
+      - DB_USER=${DB_USER}
+      - DB_PASSWORD=${DB_PASSWORD}
+      - DJANGO_SECRET_KEY=${DJANGO_SECRET_KEY}
+      - DJANGO_DEBUG=False
+      - REDIS_URL=redis://redis:6379/0
+      - CELERY_WORKERS=8
+    volumes:
+      - .:/app
+      - ./documents:/app/documents
+    depends_on:
+      - db
+      - redis
+      - ollama
+    command: >
+      sh -c "python manage.py migrate &&
+             python manage.py runserver 0.0.0.0:8000"
+    networks:
+      - mynetwork
+    deploy:
+      resources:
+        limits:
+          cpus: '8'
+          memory: 32G
+
+  celery-worker:
+    build: .
+    command: celery -A your_project worker -l INFO -Q query_queue,document_queue,embedding_queue
+    environment:
+      - DB_HOST=db
+      - REDIS_URL=redis://redis:6379/0
+      - OLLAMA_HOST=ollama:11434
+    volumes:
+      - .:/app/
+    depends_on:
+      - db
+      - redis
+      - ollama
+    deploy:
+      resources:
+        limits:
+          cpus: '4'
+          memory: 16G
+      replicas: 2  # Multiple worker instances
+
+  monitor:
+    build: .
+    command: python manage.py monitor_system --interval 60
+    environment:
+      - DB_HOST=db
+      - REDIS_URL=redis://redis:6379/0
+    depends_on:
+      - db
+      - redis
+    deploy:
+      resources:
+        limits:
+          cpus: '1'
+          memory: 2G
+
+volumes:
+  postgres_data:
+  redis_data:
+  ollama_data:
+
+networks:
+  mynetwork:
+    driver: bridge

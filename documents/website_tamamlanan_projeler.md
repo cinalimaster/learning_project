@@ -1,0 +1,57 @@
+## TAMAMLANAN PROJELER
+
+Belediye Başkanı Sn.Alper YEĞİN'in Sancaktepe belediye başkanı olduğu dönemden bu güne kadar tamamladığı projelerin listesi aşağıdaki gibidir.  Bu projelerle ilgili ayrıntılı bilgi için Sancaktepe Belediyesi Resmi web sayfası Tamamlanan Projeler sayfasını ziyaret edebilirsiniz.
+
+- Abdurrahman Gazi Mahallesi Atatürk Parkı Sosyal Tesisi
+- Abdurrahman Gazi Mahallesi Koru Park
+- Abdurrahman Gazi Mahallesi Mehtap Parkı ve Halı Saha
+- Abdurrahman Gazi Mahallesi Şehit Sedat Bugan Parkı ve Halı Saha
+- Akpınar Mahalle Evi
+- Akpınar Mahallesi Cengiz Topel İÖO Halı Saha
+- Akpınar Mahallesi Polis Karakolu
+- Akpınar Mahallesi Yiğitler Sokak Parkı
+- Akpınar Mahallesi Yuvamız Sancaktepe
+- Atatürk Mahallesi Şehit Eşref Bitlis Parkı
+- Atatürk Mahallesi Şehit Satılmış Yıldırım Parkı
+- Aydos Millet Bahçesi Bostanları
+- Aziz Bayraktar İHL Halı Saha
+- Eyüp Sultan Mahalleis Mehmet Akif Ersoy Parkı Halı Saha
+- Eyüp Sultan Mahallesi Ayhan & Cahit Gülan Aile Sağlığı Merkezi
+- Eyüp Sultan Mahallesi İstiklal Parkı
+- Eyüp Sultan Mahallesi Samandıra Futbol Tesisi
+- Eyüp Sultan Mahallesi Şamil Gülan Spor Salonu
+- Fatih Mahallesi Şiir Sokak Parkı
+- Fatih Mahallesi Yuvamız Sancaktepe
+- Hilal Mahallesi Merkez Camii
+- Hilal Mahallesi Sanfit Spor Salonu
+- Hilal Mahallesi Tarım Sokak Spor Parkı
+- İnönü Mahallesi Gülhanım Şahin Parkı
+- İnönü Mahallesi Mertcan Oyun Sokağı
+- İnönü Mahallesi Yuvamız Sancaktepe
+- Kemal Türkler Mahallesi Lalezar Parkı ve Halı Saha
+- Kemal Türkler Mahallesi Muhtar Kazım Özmen Spor Parkı
+- Kemal Türkler Mahallesi Necip Fazıl Kısakürek Parkı ve Halı Saha
+- Kemal Türkler Mahallesi Osman Gazi Parkı
+- Koru Park Sosyal Kafe
+- Meclis Mahallesi Metin Göktepe Parkı
+- Merve Mahallesi Çayırlı Park
+- Merve Mahallesi Sanfit Spor Salonu
+- Mevlana Mahallesi Rıdvan Dilmen Halı Saha 1
+- Mevlana Mahallesi Rıdvan Dilmen Halı Saha 2
+- Mevlana Mahallesi Yuvamız Sancaktepe
+- Osman Gazi Mahalle Muhtarlık Binası
+- Osman Gazi Mahallesi Hasan Bayrak Parkı
+- Osman Gazi Mahallesi Musa Meral Aile Sağlığı Merkezi
+- Osman Gazi Mahallesi Yunus Okumuş Parkı
+- Paşaköy Mahallesi Spor Parkı
+- Safa Mahallesi Sanfit Spor Salonu
+- Samandıra Atatürk Parkı
+- Samandıra Cumhuriyet Meydanı
+- Samandıra Mahalle Evi
+- Sancaktepe Çözüm Ofisi (Sarıgazi)
+- Sancaktepe Çözüm Ofisi (Yenidoğan)
+- Sarıgazi Nazım Hikmet Parkı
+- Sarıgazi Prestij Caddesi
+- Veysel Karani Mahallesi Sırrı Süreyya Önder Spor Parkı
+- Yenidoğan Mahallesi Akın Caddesi Parkı
+- Yenidoğan Sağlık İşleri Müdürlüğü
