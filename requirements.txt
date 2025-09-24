@@ -1,10 +1,9 @@
 django==4.2
 psycopg2-binary>=2.9.9
-faiss-cpu==1.8.0
+faiss-cpu==1.12.0
 numpy==1.26.4
 sentence-transformers
 celery
-spacy
 langchain
 rank-bm25
 djangorestframework
@@ -12,3 +11,5 @@ PyMuPDF
 nltk
 beautifulsoup4
 html2text
+markdown
+pytest-django

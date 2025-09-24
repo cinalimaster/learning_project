@@ -146,4 +146,4 @@ class FAISSVectorStore:
 
     def __len__(self):
         """Return number of stored vectors."""
-        return self.index.ntotal
+        return int(getattr(self.index, 'ntotal', 0))

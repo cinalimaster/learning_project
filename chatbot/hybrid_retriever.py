@@ -1,5 +1,5 @@
 # hybrid_retriever.py
-from rank_bm25 import BM25
+from rank_bm25 import BM25Okapi
 import numpy as np
 from sentence_transformers import util
 from .entity_retriever import EntityAwareRetriever
@@ -14,9 +14,17 @@ class HybridRetriever:
         # Initialize entity-aware retriever
         self.entity_retriever = EntityAwareRetriever(vector_store, embedding_model)
 
+        # Normalize document inputs
+        if documents and isinstance(documents[0], dict):
+            self.corpus_texts = [doc.get('text', '') for doc in documents]
+            self.corpus_ids = [doc.get('id', str(i)) for i, doc in enumerate(documents)]
+        else:
+            self.corpus_texts = documents
+            self.corpus_ids = [str(i) for i in range(len(documents))]
+
         # Prepare BM25: tokenize corpus
-        self.tokenized_corpus = [doc['text'].split() for doc in documents]  # assuming 'text' field exists
-        self.bm25 = BM25(self.tokenized_corpus)
+        self.tokenized_corpus = [text.split() for text in self.corpus_texts]
+        self.bm25 = BM25Okapi(self.tokenized_corpus)
 
     def hybrid_search(self, query, top_k=5, weights=(0.6, 0.3, 0.1)):
         """
@@ -63,10 +71,10 @@ class HybridRetriever:
 
         # Process BM25 results
         for idx in bm25_top_indices:
-            doc_id = self.documents[idx]['id']  # Assumes each doc has 'id' field
-            score = bm25_scores[idx]
+            doc_id = self.corpus_ids[int(idx)]
+            score = float(bm25_scores[int(idx)])
             # Normalize: scale by max score to get [0,1] range
-            norm_score = score / (np.max(bm25_scores) + 1e-10)
+            norm_score = score / (float(np.max(bm25_scores)) + 1e-10)
             if doc_id not in result_map:
                 result_map[doc_id] = {
                     'vector_score': 0,

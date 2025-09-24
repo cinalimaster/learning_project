@@ -1,19 +1,19 @@
-# views.py
+from django.shortcuts import render
 from django.http import JsonResponse
-from django.views.decorators.http import require_http_methods
 from django.views.decorators.csrf import csrf_exempt
 from django.utils.decorators import method_decorator
 from rest_framework.views import APIView
 from rest_framework.response import Response
 from rest_framework import status
+from django.conf import settings
 import os
 import uuid
 import time
 from .document_db import DocumentDatabase
-from .task import process_document_task
-from .rate_limiter import RateLimiter
+from .tasks import process_document_task
+from .rete_limiter import RateLimiter
 from .services import get_best_document_context, generate_response_with_guidance
-from .models import ChatInteraction  # Import ChatInteraction
+from .models import ChatInteraction
 
 
 class AskView(APIView):
@@ -138,3 +138,7 @@ class DocumentStatusView(APIView):
             'status': 'processing',
             'document_id': document_id
         })
+
+
+def index(request):
+    return render(request, 'index.html')

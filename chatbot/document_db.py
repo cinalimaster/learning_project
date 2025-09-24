@@ -1,13 +1,8 @@
 import re
 import os
 import json
-import nltk
-import fitz
 import logging
-import numpy as np
 from django.conf import settings
-from nltk.corpus import stopwords
-from nltk.tokenize import sent_tokenize, word_tokenize
 from .vector_store import FAISSVectorStore
 from .document_processor import DocumentProcessor
 from .entity_extractor import EntityExtractor

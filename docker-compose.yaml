@@ -92,7 +92,7 @@ services:
 
   celery-worker:
     build: .
-    command: celery -A your_project worker -l INFO -Q query_queue,document_queue,embedding_queue
+    command: celery -A chatbot.celery worker -l INFO -Q document_queue
     environment:
       - DB_HOST=db
       - REDIS_URL=redis://redis:6379/0
